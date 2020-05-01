@@ -1,6 +1,6 @@
 ---
 # Display name
-name: abcd
+title: Qifeng Liao
 
 # Username (this should match the folder name)
 authors:

@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "College Park"
   date_start = "2011-01-01"
   date_end = "2012-06-01"
-  description = """Taught efficient numerical methods for PDEs."""
+  description = """Research on efficient numerical methods for PDEs."""
 
   [[experience]]
   title = "Postdoc"
@@ -33,13 +33,14 @@ date_format = "Jan 2006"
   location = "College Park"
   date_start = "2012-07-01"
   date_end = "2015-02-01"
-  description = """
-  Responsibilities include:
+  description = """Research on efficient numerical methods for PDEs."""
+  #"""
+  #Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  #* Analysing
+  #* Modelling
+  #* Deploying
+  #"""
 
 [[experience]]
   title = "Assistant Professor"

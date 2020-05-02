@@ -90,7 +90,8 @@ address = {street = "393 Middle Huaxia Road", city = "Shanghai", region = "Pudon
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "31.176437", longitude = "121.593531"}
+#31.176437, 121.593531
 
 # Directions for visitors to locate you.
 directions = "Room 1A-404B, SIST Building"

@@ -7,16 +7,16 @@ weight = 120  # Order that this section will appear.
 
 title = "Popular Topics"
 subtitle = ""
-
-[content]
-  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
-  taxonomy = "tags"
-  tags = ["partial differential equations(PDEs)", "Tensor methods", 
-"deep learning for PDEs", 
+tags = ["partial differential equations(PDEs)", "Tensor methods", "deep learning for PDEs", 
 "Bayesian inverse problems", 
 "random numerical linear algebra", 
 "numerical optimization", 
 "uncertainty quantification"]
+
+[content]
+  # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
+  taxonomy = "tags"
+
   
   # Choose how many tags you would like to display (0 = all tags)
   count = 20

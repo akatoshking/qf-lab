@@ -66,7 +66,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+- Grad Students
 ---
 
 Daheng Cai is a Phd student at Qifeng Lab. His research interests include uncertainty Quantification, numerical Methods for Partial Differential Equations and Finite Element Methods.

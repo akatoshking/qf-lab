@@ -4,7 +4,7 @@ title: Daheng Cai
 
 # Username (this should match the folder name)
 authors:
-- Daheng Cai
+- DahengCai
 
 # Is this the primary user of the site?
 superuser: false

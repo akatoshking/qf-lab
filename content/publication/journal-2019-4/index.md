@@ -1,8 +1,11 @@
 ---
-title: "An example journal article"
+title: "D3M: A Deep Domain Decomposition Method for Partial Differential Equations"
 authors:
+#Ke Li  ; Kejun Tang ; Tianfan Wu ; Qifeng Liao
+- KeLi
+- KejunTang
+- Tianfan Wu
 - admin
-- Robert Ford
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -19,19 +22,20 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A state-of-the-art deep domain decomposition method (D3M) based on the variational principle is proposed for partial differential equations (PDEs). The solution of PDEs can be formulated as the solution of a constrained optimization problem, and we design a hierarchical neural network framework to solve this optimization problem. Through decomposing a PDE system into components parts, our D3M builds local neural networks on physical subdomains independently (which can be implemented in parallel), so as to obtain efficient neural network approximations for complex problems. Our analysis shows that the D3M approximation solution converges to the exact solution of the underlying PDEs. The accuracy and the efficiency of D3M are validated and demonstrated with numerical experiments.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We design a hierarchical neural network framework to solve this optimization problem.
 
 tags:
-- Source Themes
+- Domain decomposition
+- Neural network
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8918421    
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,10 +63,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -70,4 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->

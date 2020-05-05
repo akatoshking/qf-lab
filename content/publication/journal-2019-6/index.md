@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Gaussian Process Based Expected Information Gain Computation for Bayesian Optimal Design"
 authors:
+- ZhihangXu
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2020-01-01T00:00:00Z"
+doi: "https://doi.org/10.3390/e22020258"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-02-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +16,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Entropy 2020, 22(2), 258"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Optimal experimental design (OED) is of great significance in efficient Bayesian inversion. A popular choice of OED methods is based on maximizing the expected information gain (EIG), where expensive likelihood functions are typically involved. To reduce the computational cost, in this work, a novel double-loop Bayesian Monte Carlo (DLBMC) method is developed to efficiently compute the EIG, and a Bayesian optimization (BO) strategy is proposed to obtain its maximizer only using a small number of samples. For Bayesian Monte Carlo posed on uniform and normal distributions, our analysis provides explicit expressions for the mean estimates and the bounds of their variances. The accuracy and the efficiency of our DLBMC and BO based optimal design are validated and demonstrated with numerical experiments. 
+
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this work, a novel double-loop Bayesian Monte Carlo (DLBMC) method is developed to efficiently compute the EIG, and a Bayesian optimization (BO) strategy is proposed to obtain its maximizer only using a small number of samples.
 
 tags:
-- Source Themes
+- Bayesian Monte Carlo
+- Bayesian optimal experimental design
+- Bayesian optimization
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://www.mdpi.com/1099-4300/22/2/258/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,10 +63,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -70,4 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->

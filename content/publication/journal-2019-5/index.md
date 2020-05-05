@@ -1,13 +1,13 @@
 ---
-title: "An example journal article"
+title: "Reduced basis ANOVA methods for partial differential equations with high-dimensional random inputs"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Guang Lin
+date: "2016-09-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.jcp.2016.04.029"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2016-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,22 +16,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Journal of Computational Physics(2016)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper we present a reduced basis ANOVA approach for partial deferential equations (PDEs) with random inputs. The ANOVA method combined with stochastic collocation methods provides model reduction in high-dimensional parameter space through decomposing high-dimensional inputs into unions of low-dimensional inputs. In this work, to further reduce the computational cost, we investigate spatial low-rank structures in the ANOVA-collocation method, and develop efficient spatial model reduction techniques using hierarchically generated reduced bases. We present a general mathematical framework of the methodology, validate its accuracy and demonstrate its efficiency with numerical experiments.
+
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this work, to further reduce the computational cost, we investigate spatial low-rank structures in the ANOVA-collocation method, and develop efficient spatial model reduction techniques using hierarchically generated reduced bases.
 
 tags:
-- Source Themes
+- Adaptive ANOVA
+- Stochastic collocation
+- Reduced basis methods
+- Uncertainty quantification
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,10 +64,10 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -70,4 +75,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->

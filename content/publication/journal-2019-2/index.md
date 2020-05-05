@@ -1,7 +1,7 @@
 ---
 title: "Rank adaptive tensor recovery based model reduction for partial differential equations with high-dimensional random inputs"
 authors:
-- Kejun Tang
+- KejunTang
 - admin
 date: "2019-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jcp.2020.109326"

@@ -20,7 +20,7 @@ publishDate: "2019-11-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*BIT Numerical Mathematics, 2019 - Springer*"
 publication_short: ""
 
 abstract: This paper concerns the accuracy of Galerkin finite element approximations to two types of shape gradients for eigenvalue optimization. Under certain regularity assumptions on domains, a priori error estimates are obtained for the two approximate shape gradients. Our convergence analysis shows that the volume integral formula converges faster and offers higher accuracy than the boundary integral formula. Numerical experiments validate the theoretical results for the problem with a pure Dirichlet boundary condition. For the problem with a pure Neumann boundary condition, the boundary formulation numerically converges as fast as the distributed type.
@@ -70,8 +70,8 @@ slides: "" #example
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->

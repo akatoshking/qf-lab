@@ -7,7 +7,8 @@ authors:
 - Tianfan Wu
 - admin
 date: "2019-12-01T00:00:00Z"
-doi: ""
+# https://doi.org/10.1016/j.jcp.2019.06.059
+doi: "https://doi.org/10.1109/ACCESS.2019.2957200"
 
 # Schedule page publish date (NOT publication's date).02 December 2019
 publishDate: "2019-11-02T00:00:00Z"
@@ -19,7 +20,7 @@ publishDate: "2019-11-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* IEEE Access, 2019*"
+publication: "IEEE Access, 2019"
 publication_short: ""
 
 abstract: A state-of-the-art deep domain decomposition method (D3M) based on the variational principle is proposed for partial differential equations (PDEs). The solution of PDEs can be formulated as the solution of a constrained optimization problem, and we design a hierarchical neural network framework to solve this optimization problem. Through decomposing a PDE system into components parts, our D3M builds local neural networks on physical subdomains independently (which can be implemented in parallel), so as to obtain efficient neural network approximations for complex problems. Our analysis shows that the D3M approximation solution converges to the exact solution of the underlying PDEs. The accuracy and the efficiency of D3M are validated and demonstrated with numerical experiments.

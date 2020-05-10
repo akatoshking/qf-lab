@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning for PDEs, random numerical linear algebra and numerical optimization.
+bio: My research interests include deep learning for PDEs and numerical optimization.
 
 interests:
 - Deep learning for PDEs

@@ -2,9 +2,9 @@
 title: "Convergence analysis of Galerkin finite element approximations to shape gradients in eigenvalue optimization.
 "
 authors:
-- admin
 - Shengfeng Zhu
 - Xianliang Hu
+- admin
 date: "2019-11-16T00:00:00Z"
 doi: "https://doi.org/10.1007/s10543-019-00782-3"
 #Zhu, S., Hu, X. & Liao, Q. Convergence analysis of Galerkin finite element approximations to shape gradients in eigenvalue optimization. Bit Numer Math (2019). 

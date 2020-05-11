@@ -32,10 +32,10 @@ education:
 #     year: 2012
    - course: MEng in Computer Science
      institution: ShanghaiTech University
-     year: 2009
+     year: 2021
    - course: BSc in Computational Mathematics
      institution: Chongqing University
-     year: 2014
+     year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

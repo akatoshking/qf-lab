@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning for PDEs and numerical optimization.
+bio: My research interests include deep learning for PDEs and numerical Methods for Partial Differential Equations.
 
 interests:
 - Deep learning for PDEs
-- Random numerical linear algebra
+- Numerical Methods for Partial Differential Equations
 - Domain Decomposition Methods
 
 # education:
@@ -72,4 +72,4 @@ user_groups:
 - Grad Students
 ---
 
-Ke Li is a graduate student at Qifeng Lab. His research interests include deep learning for PDEs, random numerical linear algebra and numerical optimization.
+Ke Li is a graduate student at Qifeng Lab. His research interests include deep learning for PDEs and numerical Methods for Partial Differential Equations.

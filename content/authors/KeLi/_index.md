@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning for PDEs and numerical Methods for Partial Differential Equations.
+bio: My research interests include scientific computing, domain decomposition, and applications of machine learning.
 
 interests:
 - Deep learning for PDEs
@@ -72,4 +72,4 @@ user_groups:
 - Grad Students
 ---
 
-Ke Li is a graduate student at Qifeng Lab. His research interests include deep learning for PDEs and numerical Methods for Partial Differential Equations.
+Ke Li is a graduate student at Qifeng Lab. His research interests include scientific computing, domain decomposition, and applications of machine learning.

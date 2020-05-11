@@ -74,5 +74,3 @@ email: ""
 user_groups:
 - Grad Students
 ---
-
-Ke Li is a graduate student at Qifeng Lab. His research interests include scientific computing, domain decomposition, and applications of machine learning.

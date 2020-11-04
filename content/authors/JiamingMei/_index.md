@@ -57,6 +57,9 @@ interests:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+- icon: react
+  icon_pack: fab
+  link: https://meijiaming.tech
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

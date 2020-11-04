@@ -59,7 +59,9 @@ social:
 - icon: react
   icon_pack: fab
   link: https://www.tangkejun.com/
-
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Kejun_Tang
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tangkj@shanghaitech.edu.cn"
 
